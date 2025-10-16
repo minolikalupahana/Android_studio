@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="midnight_bloom_primary">#A855F7</color>
+    <color name="midnight_bloom_primary_dark">#9333EA</color>
+    <color name="midnight_bloom_background">#1C1C23</color>
+    <color name="midnight_bloom_surface">#2A2A35</color>
+    <color name="midnight_bloom_onSurface">#F1F1F1</color>
+    <color name="midnight_bloom_onSurfaceVariant">#AEAEB2</color>
+</resources>

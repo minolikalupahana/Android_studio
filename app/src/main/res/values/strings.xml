@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="habits">Habits</string>
+    <string name="mood">Mood</string>
+    <string name="settings">Settings</string>
+    <string name="title_my_wellness_journey">Today\'s Focus</string>
+    <string name="add_new_habit">Add new habit</string>
+    <string name="hydration_title">Time to drink water</string>
+    <string name="hydration_body">Stay hydrated for better focus and health.</string>
+    <string name="reminder_on">Hydration reminder ON</string>
+    <string name="reminder_off">Hydration reminder OFF</string>
+    <string name="share_summary">Share weekly mood</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="past_moods">Past Moods</string>
+    <string name="notifications">Notifications</string>
+</resources>
